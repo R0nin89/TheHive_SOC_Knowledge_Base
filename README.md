@@ -162,7 +162,7 @@ images/
 
 Y referenciarlas así:
 
-
+![resultado](https://github.com/R0nin89/TheHive_SOC_Knowledge_Base/blob/main/Base%20De%20Conocimientos.png)
 
 ---
 
