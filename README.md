@@ -144,26 +144,6 @@ Playbooks para investigaciones comunes:
 | Sospecha de exfiltración de datos | Transferencia anómala de información |
 | Correo de phishing | Email sospechoso, URL o adjunto malicioso |
 | Explotación de vulnerabilidad | Intento o explotación de CVE o servicio vulnerable |
-
----
-
-## 📸 Imágenes
-
-Puedes añadir capturas del uso en TheHive dentro de una carpeta `images/`.
-
-Ejemplo recomendado:
-
-```text
-images/
-├── thehive-knowledge-base.png
-├── thehive-case-pages.png
-└── thehive-playbooks.png
-```
-
-Y referenciarlas así:
-
-![resultado](https://github.com/R0nin89/TheHive_SOC_Knowledge_Base/blob/main/Base%20De%20Conocimientos.png)
-
 ---
 
 ## 🚀 Instalación / uso
