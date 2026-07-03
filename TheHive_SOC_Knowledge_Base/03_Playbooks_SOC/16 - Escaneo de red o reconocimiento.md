@@ -9,7 +9,9 @@ Investigar escaneo de puertos, enumeración de servicios o reconocimiento intern
 | Táctica | Técnica |
 |---|---|
 | TA0043 Reconnaissance | T1595 Active Scanning |
-| TA0007 Discovery | T1046 Network Service Discovery, T1018 Remote System Discovery, T1087 Account Discovery |
+| TA0007 Discovery | T1046 Network Service Discovery|
+||T1018 Remote System Discovery|
+||T1087 Account Discovery |
 
 ## Severidad orientativa
 
