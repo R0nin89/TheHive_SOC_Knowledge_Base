@@ -8,7 +8,11 @@ Investigar borrado de logs, cambios de auditoría o manipulación de controles d
 
 | Táctica | Técnica |
 |---|---|
-| TA0005 Defense Evasion | T1070.001 Clear Windows Event Logs, T1070.002 Clear Linux Logs, T1562.001 Disable or Modify Tools, T1562.002 Disable Windows Event Logging, T1562.004 Disable or Modify System Firewall |
+| TA0005 Defense Evasion | T1070.001 Clear Windows Event Logs|
+||T1070.002 Clear Linux Logs|
+||T1562.001 Disable or Modify Tools|
+||T1562.002 Disable Windows Event Logging|
+||T1562.004 Disable or Modify System Firewall |
 
 ## Severidad orientativa
 
