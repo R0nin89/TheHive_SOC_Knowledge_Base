@@ -8,7 +8,8 @@ Investigar múltiples intentos fallidos de autenticación contra una o varias cu
 
 | Táctica | Técnica |
 |---|---|
-| TA0006 Credential Access | T1110 Brute Force (T1110.001 Password Guessing, T1110.002 Password Cracking) |
+| TA0006 Credential Access | T1110 Brute Force (T1110.001 Password Guessing|
+||T1110.002 Password Cracking) |
 
 ## Severidad orientativa
 
