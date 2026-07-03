@@ -8,8 +8,10 @@ Investigar transferencias anómalas de datos hacia destinos no habituales y dete
 
 | Táctica | Técnica |
 |---|---|
-| TA0010 Exfiltration | T1048 Exfiltration Over Alternative Protocol, T1567.002 Exfiltration to Cloud Storage |
-| TA0009 Collection | T1560 Archive Collected Data, T1005 Data from Local System |
+| TA0010 Exfiltration | T1048 Exfiltration Over Alternative Protocol|
+||T1567.002 Exfiltration to Cloud Storage |
+| TA0009 Collection | T1560 Archive Collected Data|
+||T1005 Data from Local System |
 
 ## Severidad orientativa
 
