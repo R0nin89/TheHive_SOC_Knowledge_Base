@@ -9,7 +9,8 @@ Investigar ejecuciones de PowerShell con indicadores de descarga, código codifi
 | Táctica | Técnica |
 |---|---|
 | TA0002 Execution | T1059.001 PowerShell |
-| TA0005 Defense Evasion | T1027 Obfuscated Files or Information, T1562.001 Disable or Modify Tools |
+| TA0005 Defense Evasion | T1027 Obfuscated Files or Information|
+||T1562.001 Disable or Modify Tools |
 | TA0011 Command and Control | T1105 Ingress Tool Transfer |
 
 ## Severidad orientativa
