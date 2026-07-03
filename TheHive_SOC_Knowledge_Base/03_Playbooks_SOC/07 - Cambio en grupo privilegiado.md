@@ -8,7 +8,8 @@ Investigar altas o bajas en grupos con privilegios administrativos o acceso sens
 
 | Táctica | Técnica |
 |---|---|
-| TA0004 Privilege Escalation | T1078.002 Domain Accounts, T1098 Account Manipulation |
+| TA0004 Privilege Escalation | T1078.002 Domain Accounts|
+||T1098 Account Manipulation |
 | TA0003 Persistence | T1136 Create Account (si se creó la cuenta añadida) |
 
 ## Severidad orientativa
