@@ -9,7 +9,8 @@ Investigar múltiples intentos fallidos SSH contra hosts Linux y comprobar si hu
 | Táctica | Técnica |
 |---|---|
 | TA0006 Credential Access | T1110.001 Password Guessing |
-| TA0001 Initial Access | T1078 Valid Accounts, T1133 External Remote Services |
+| TA0001 Initial Access | T1078 Valid Accounts|
+|| T1133 External Remote Services |
 | TA0003 Persistence | T1098.004 SSH Authorized Keys |
 
 ## Severidad orientativa
