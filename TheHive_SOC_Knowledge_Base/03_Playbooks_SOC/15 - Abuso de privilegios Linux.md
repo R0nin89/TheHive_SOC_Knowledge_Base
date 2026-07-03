@@ -8,9 +8,12 @@ Investigar uso anómalo de sudo, su, login de root o cambios en ficheros crític
 
 | Táctica | Técnica |
 |---|---|
-| TA0004 Privilege Escalation | T1548.003 Sudo and Sudo Caching, T1068 Exploitation for Privilege Escalation |
-| TA0003 Persistence | T1098.004 SSH Authorized Keys, T1053.003 Cron, T1136.001 Local Account |
-| TA0005 Defense Evasion | T1070.002 Clear Linux Logs, T1222.002 File Permission Modification |
+| TA0004 Privilege Escalation | T1548.003 Sudo and Sudo Caching|
+|| T1068 Exploitation for Privilege Escalation |
+| TA0003 Persistence | T1098.004 SSH Authorized Keys|
+||T1053.003 Cron, T1136.001 Local Account |
+| TA0005 Defense Evasion | T1070.002 Clear Linux Logs|
+|| T1222.002 File Permission Modification |
 
 ## Severidad orientativa
 
