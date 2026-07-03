@@ -8,7 +8,12 @@ Investigar creación o modificación de mecanismos de persistencia y determinar 
 
 | Táctica | Técnica |
 |---|---|
-| TA0003 Persistence | T1543.003 Windows Service, T1053.005 Scheduled Task, T1547.001 Registry Run Keys / Startup Folder, T1053.003 Cron, T1543.002 Systemd Service, T1098.004 SSH Authorized Keys, T1546.003 WMI Event Subscription |
+| TA0003 Persistence | T1543.003 Windows Service|
+||T1053.005 Scheduled Task|
+||T1547.001 Registry Run Keys / Startup Folder|
+||T1053.003 Cron, T1543.002 Systemd Service|
+||T1098.004 SSH Authorized Keys
+||T1546.003 WMI Event Subscription |
 
 ## Severidad orientativa
 
