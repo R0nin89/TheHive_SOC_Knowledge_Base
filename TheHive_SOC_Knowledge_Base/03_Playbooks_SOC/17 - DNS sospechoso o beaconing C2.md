@@ -8,7 +8,11 @@ Investigar consultas DNS anómalas, dominios DGA, túnel DNS o conexiones perió
 
 | Táctica | Técnica |
 |---|---|
-| TA0011 Command and Control | T1071.001 Web Protocols, T1071.004 DNS, T1568.002 DGA, T1572 Protocol Tunneling, T1573 Encrypted Channel |
+| TA0011 Command and Control | T1071.001 Web Protocols|
+||T1071.004 DNS
+||T1568.002 DGA
+||T1572 Protocol Tunneling|
+||T1573 Encrypted Channel |
 | TA0010 Exfiltration | T1048.003 Exfiltration Over Unencrypted/Obfuscated Non-C2 Protocol (túnel DNS) |
 
 ## Severidad orientativa
