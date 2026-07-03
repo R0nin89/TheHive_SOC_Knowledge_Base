@@ -8,7 +8,8 @@ Investigar correo sospechoso (credenciales, adjuntos maliciosos, URLs fraudulent
 
 | Táctica | Técnica |
 |---|---|
-| TA0001 Initial Access | T1566.001 Spearphishing Attachment, T1566.002 Spearphishing Link |
+| TA0001 Initial Access | T1566.001 Spearphishing Attachment|
+||T1566.002 Spearphishing Link |
 | TA0006 Credential Access | T1598 Phishing for Information |
 | TA0002 Execution | T1204 User Execution |
 
