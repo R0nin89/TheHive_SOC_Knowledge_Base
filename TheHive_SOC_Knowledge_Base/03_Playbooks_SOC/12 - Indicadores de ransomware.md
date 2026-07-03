@@ -8,9 +8,11 @@ Investigar actividad compatible con cifrado masivo, destrucción de datos o nota
 
 | Táctica | Técnica |
 |---|---|
-| TA0040 Impact | T1486 Data Encrypted for Impact, T1490 Inhibit System Recovery |
+| TA0040 Impact | T1486 Data Encrypted for Impact|
+||T1490 Inhibit System Recovery |
 | TA0010 Exfiltration | T1567 Exfiltration Over Web Service (doble extorsión) |
-| TA0005 Defense Evasion | T1562.001 Disable Security Tools, T1070.001 Clear Windows Event Logs |
+| TA0005 Defense Evasion | T1562.001 Disable Security Tools|
+||T1070.001 Clear Windows Event Logs |
 
 ## Severidad orientativa
 
